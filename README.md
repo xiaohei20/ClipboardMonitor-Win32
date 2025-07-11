@@ -1,2 +1,2 @@
 # ClipboardMonitor-Win32
-A lightweight Windows desktop application for monitoring and logging clipboard content with full Unicode support.
+A lightweight Windows desktop application for logging clipboard content with full Unicode support.
